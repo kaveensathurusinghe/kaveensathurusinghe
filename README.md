@@ -103,8 +103,8 @@ My approach to development focuses on:
 ## 📫 Connect With Me
 
 - **GitHub**: [@kaveensathurusinghe](https://github.com/kaveensathurusinghe)
-- **LinkedIn**: [@kaveensathurusinghe(www.linkedin.com/in/kaveen-sathurusinghe-2b5647199)]
-- **Email**: [kaveensathurusinghe@gmail.com]
+- **LinkedIn**: [@kaveensathurusinghe](www.linkedin.com/in/kaveen-sathurusinghe-2b5647199)
+- **Email**: kaveensathurusinghe@gmail.com
 
 ---
 
