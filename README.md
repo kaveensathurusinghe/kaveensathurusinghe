@@ -13,7 +13,7 @@ My main focus is **Java & Spring Boot**, but I also explore **.NET Core**, **Rea
 - ☁️ Experienced in **DevOps**, including **deploying .NET Core APIs and React apps on Microsoft Azure** using **CI/CD pipelines**  
 - ⚙️ Medium-level experience in **ASP.NET Core API development**  
 - 🤖 Passionate about **Arduino and IoT projects** – I love blending hardware with software  
-- 📫 Reach me at: **[Your Email Here]**
+- 📫 Reach me at: **kaveensathurusinghe@gmail.com**
 
 ---
 
@@ -99,7 +99,7 @@ My approach to development focuses on:
 - **GitHub**: [@kaveensathurusinghe](https://github.com/kaveensathurusinghe)
 - **LinkedIn**: [@kaveensathurusinghe](www.linkedin.com/in/kaveen-sathurusinghe-2b5647199)
 - **Email**: kaveensathurusinghe@gmail.com
-
+- **Phone**: +94772399469
 ---
 
 ⭐️ *From [Kaveen Sathurusinghe](https://github.com/kaveensathurusinghe)*
