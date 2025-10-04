@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 I'm a passionate **software developer** who loves building robust, scalable, and user-friendly applications.  
-My main focus is **Java & Spring Boot**, but I also explore **.NET Core**, **React.js**, and **DevOps** to deliver complete, production-ready systems.
+My main focus is **Java & Spring Boot**, but I also explore **.NET Core**, **React.js**, **C programming**, and **DevOps** to deliver complete, production-ready systems.
 
 ---
 
@@ -12,7 +12,9 @@ My main focus is **Java & Spring Boot**, but I also explore **.NET Core**, **Rea
 - 🌱 Basic experience with **React.js** for building interactive frontends  
 - ☁️ Experienced in **DevOps**, including **deploying .NET Core APIs and React apps on Microsoft Azure** using **CI/CD pipelines**  
 - ⚙️ Medium-level experience in **ASP.NET Core API development**  
+- 🔬 Strong foundation in **C programming**, including **parallel and distributed computing** on **AWS** and **Google Cloud instances**  
 - 🤖 Passionate about **Arduino and IoT projects** – I love blending hardware with software  
+- 💡 Always eager to learn new technologies and optimize performance in every system I build  
 - 📫 Reach me at: **kaveensathurusinghe@gmail.com**
 
 ---
@@ -21,6 +23,7 @@ My main focus is **Java & Spring Boot**, but I also explore **.NET Core**, **Rea
 
 ### 💬 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,6 +34,11 @@ My main focus is **Java & Spring Boot**, but I also explore **.NET Core**, **Rea
 ![.NET](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### ☁️ Cloud & Parallel Computing
+![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-Parallel_Computing-blue?style=for-the-badge)
+
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -38,6 +46,9 @@ My main focus is **Java & Spring Boot**, but I also explore **.NET Core**, **Rea
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-Testing-green?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-Load_Testing-red?style=for-the-badge)
 
 ---
 
@@ -77,8 +88,9 @@ Plant nursery e-commerce site with custom JS components
 - 🖥️ **Java & Spring Boot** – building enterprise-level backends  
 - 🔧 **DevOps & Azure Deployments** – automating CI/CD pipelines  
 - 🌐 **Frontend Development** – improving UI/UX using React  
+- ⚡ **C & Parallel Computing** – running high-performance tasks on AWS & Google Cloud  
 - 🧩 **System Architecture** – designing maintainable and secure applications  
-- 🤖 **Arduino & Embedded Systems** – creating creative hardware projects  
+- 🤖 **Arduino & Embedded Systems** – bringing creative hardware ideas to life  
 
 ---
 
@@ -97,9 +109,10 @@ My approach to development focuses on:
 ## 📫 Connect With Me
 
 - **GitHub**: [@kaveensathurusinghe](https://github.com/kaveensathurusinghe)
-- **LinkedIn**: [@kaveensathurusinghe](www.linkedin.com/in/kaveen-sathurusinghe-2b5647199)
+- **LinkedIn**: [@kaveensathurusinghe](https://www.linkedin.com/in/kaveen-sathurusinghe-2b5647199)
 - **Email**: kaveensathurusinghe@gmail.com
-- **Phone**: +94772399469
+- **Phone**: +94 77 239 9469
+
 ---
 
 ⭐️ *From [Kaveen Sathurusinghe](https://github.com/kaveensathurusinghe)*
