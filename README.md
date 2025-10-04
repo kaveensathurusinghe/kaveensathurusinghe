@@ -43,12 +43,6 @@ My main focus is **Java & Spring Boot**, but I also explore **.NET Core**, **Rea
 
 ## 🎯 Featured Projects
 
-### 🎵 [Web-Based Music Store](https://github.com/kaveensathurusinghe/Web-Based-Music-Store)
-Comprehensive online music platform built with **Java 22 & Spring Boot**
-- **Features**: User management, song uploads, instrument marketplace, music lessons, event ticketing  
-- **Architecture**: MVC with role-based access control  
-- **Tech Stack**: Java, Spring Boot, MySQL, JSP/Thymeleaf
-
 ### 🌸 [Serene Blooms](https://github.com/kaveensathurusinghe/Serene-Blooms-CSP)
 Full-stack e-commerce solution with strong testing and DevOps integration  
 - **Testing**: Unit, Integration, E2E, and Load testing  
