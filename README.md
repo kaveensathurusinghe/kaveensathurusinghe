@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Kaveen Sathurusinghe
+# Hi there! I'm Kaveen Sathurusinghe
 
 Welcome to my GitHub profile!  
 I'm a passionate **software developer** who loves building robust, scalable, and user-friendly applications.  
