@@ -41,6 +41,7 @@ My main focus is **Java & Spring Boot**, but I also explore **.NET Core**, **Rea
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://tech.buzzvil.com/wp-content/uploads/2016/03/AWS-DynamoDB-at-Buzzvil.jpg)
 
 ### 🧰 Tools, Testing & DevOps
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
