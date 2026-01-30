@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 I'm a passionate **software developer** who loves building robust, scalable, and user-friendly applications.  
-My main focus is **Java & Spring Boot**, but I also explore **.NET Core**, **React.js**, **C programming**, and **DevOps** to deliver complete, production-ready systems.
+My main focus is **Java & Spring Boot**, but I also explore **.NET Core**, **Next.js**, **React.js**, **C programming**, and **DevOps** to deliver complete, production-ready systems.
 
 ---
 
