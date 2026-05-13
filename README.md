@@ -45,7 +45,7 @@ enabling the development of efficient, user-friendly interfaces.
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=kaveensathurusinghe&show_icons=true&theme=tokyonight&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=kaveensathurusinghe&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800"
         alt="GitHub stats"
       />
     </td>
@@ -59,7 +59,7 @@ enabling the development of efficient, user-friendly interfaces.
   <tr>
     <td colspan="2">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveensathurusinghe&layout=compact&theme=tokyonight&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=kaveensathurusinghe&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800"
         alt="Top languages"
       />
     </td>
