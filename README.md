@@ -39,7 +39,7 @@ enabling the development of efficient, user-friendly interfaces.
 
 ---
 
-## 📊 Stats & Widgets
+## 📊 Stats
 
 <table>
   <tr>
