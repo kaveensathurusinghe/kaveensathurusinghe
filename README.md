@@ -47,19 +47,6 @@ enabling the development of efficient, user-friendly interfaces.
     alt="GitHub stats"
     width="49%"
   />
-  <img
-    src="https://streak-stats.demolab.com?user=kaveensathurusinghe&amp;theme=tokyonight&amp;hide_border=true"
-    alt="GitHub streak"
-    width="49%"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveensathurusinghe&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800"
-    alt="Top languages"
-    width="98%"
-  />
 </div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaveensathurusinghe&theme=tokyo-night&hide_border=true)
