@@ -3,7 +3,7 @@
 # Hi there, I'm Kaveen! 👋
 **Computer Science Undergraduate • Full-Stack Developer • Tech Enthusiast**
 
-![Banner](https://raw.githubusercontent.com/kaveensathurusinghe/kaveensathurusinghe/main/github_profile_banner.png)
+![Banner](./github_profile_banner.png)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kaveen.online-1f6feb?style=for-the-badge&logo=react)](https://kaveen.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaveen%20Sathurusinghe-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaveen-sathurusinghe-2b5647199)
@@ -73,10 +73,10 @@ I am a motivated **Computer Science undergraduate** and **Full-Stack Developer**
 
 ---
 
-### 🐍 Contribution Journey
+### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-user-contribution-7aaebfe4.vercel.app/api/snake?github_user=kaveensathurusinghe&color_snake=orange&color_dots=bfd6f6,8dbdff,64a1f4,4b91f1,3c7dd9" alt="Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaveensathurusinghe&theme=tokyo-night&hide_border=true&area=true" width="97%" />
 </div>
 
 ---
