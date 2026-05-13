@@ -41,30 +41,26 @@ enabling the development of efficient, user-friendly interfaces.
 
 ## 📊 Stats
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=kaveensathurusinghe&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800"
-        alt="GitHub stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://streak-stats.demolab.com?user=kaveensathurusinghe&theme=tokyonight&hide_border=true"
-        alt="GitHub streak"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveensathurusinghe&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800"
-        alt="Top languages"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kaveensathurusinghe&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800"
+    alt="GitHub stats"
+    width="49%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=kaveensathurusinghe&amp;theme=tokyonight&amp;hide_border=true"
+    alt="GitHub streak"
+    width="49%"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveensathurusinghe&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800"
+    alt="Top languages"
+    width="98%"
+  />
+</div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaveensathurusinghe&theme=tokyo-night&hide_border=true)
 
