@@ -3,8 +3,6 @@
 # Hi there, I'm Kaveen! 👋
 **Computer Science Undergraduate • Full-Stack Developer • Tech Enthusiast**
 
-![Banner](./github_profile_banner.png)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-kaveen.online-1f6feb?style=for-the-badge&logo=react)](https://kaveen.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaveen%20Sathurusinghe-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaveen-sathurusinghe-2b5647199)
 [![GitHub](https://img.shields.io/badge/GitHub-kaveensathurusinghe-0b0b0b?style=for-the-badge&logo=github)](https://github.com/kaveensathurusinghe)
@@ -51,25 +49,6 @@ I am a motivated **Computer Science undergraduate** and **Full-Stack Developer**
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaveensathurusinghe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kaveen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveensathurusinghe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaveensathurusinghe&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaveensathurusinghe&theme=tokyo-night&hide_border=true&area=true" width="97%" />
-</div>
 
 ---
 
